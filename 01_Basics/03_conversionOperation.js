@@ -20,3 +20,6 @@ console.log(typeof NaN);
 // 1 = true; 0 = false
 // "" = false
 // "hitesh" = true
+
+
+
